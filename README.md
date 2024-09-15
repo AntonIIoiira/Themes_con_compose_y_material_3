@@ -1,1 +1,1 @@
-El proyectyo se encuentra en la branch ptr
+El proyectyo se encuentra en la branch ptr.
